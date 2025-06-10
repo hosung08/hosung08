@@ -1,19 +1,21 @@
 <!-- GitHub Profile README for hosung08 -->
 
-<h1 align="center">🔐 HoSeong An | AI-Driven Security & Data Specialist</h1>
-<h3 align="center">Cybersecurity Enthusiast · AI & Data Analysis Explorer · IoT Innovator</h3>
+<h1 align="center">🔐 Ho sung SH | AI-Driven Security & Data Specialist & Web Dev & AI Model Customizer</h1>
+<h3 align="center">AI-Powered Web & Security Developer · Custom Model Engineer · IoT Innovator</h3>
 
 ---
 
 ### 🧠 Who Am I?
 
-안녕하세요. 저는 **정보보안과 인공지능 기반 데이터 분석**에 열정을 가진 고등학생 개발자입니다.
+**정보보안과 인공지능 기반 데이터 분석**에 열정을 가진 그냥저냥 고등학생.
 
 - 🎓 재학 중: **선린인터넷고등학교 정보보호과**
 - 📌 연구 관심 분야:
   - **딥러닝 기반 객체 탐지 및 이상탐지**
+  - **딥러닝 모델 커스터마이징**
   - **AI를 활용한 보안 자동화**
-  - **wed개발을 
+  - **웹 기반 AI 서비스 플랫폼** 개발
+
 
 ---
 
